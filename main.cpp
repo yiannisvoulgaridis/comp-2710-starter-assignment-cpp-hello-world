@@ -5,7 +5,11 @@ using namespace std;
 
 int main()
 {
-	//create a few starter objects
-	//add some values to test out your values methods
-	//print out all the values for each object to validate your code
+	int x = 32;
+
+	String yiannis = "Olympiakos";
+
+	cout<< x << endl;
+	cout<< yiannis<<endl;
+	cout<<"yiannis"<<endl;
 }
