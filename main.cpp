@@ -8,7 +8,7 @@ int main()
 {
 	int x = 32;
 
-	char yiannis = "Olympiakos";
+	string yiannis = "Olympiakos";
 
 	cout<< x << endl;
 	cout<< yiannis<<endl;
