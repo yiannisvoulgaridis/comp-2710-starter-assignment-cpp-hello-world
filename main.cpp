@@ -1,5 +1,6 @@
 #include <iostream>
 #include "starter.h"
+#include <string.h>
 
 using namespace std;
 
